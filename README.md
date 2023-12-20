@@ -1,3 +1,5 @@
+![image](image/Interpolation.jpg)
+
 # GrAPiC 
 
 ## Starting
