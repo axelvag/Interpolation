@@ -24,6 +24,13 @@ Color operator*(float a, Color b);
 We will cut the line into N segments, each of these segments will have a unique color.
 ```
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Interpolation
+```
+
 # GrAPiC 
 
 ## Starting
