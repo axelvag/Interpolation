@@ -1,4 +1,24 @@
+# Interpolation
+
+The right
+
+Consider two points on the 2D plane A and B. The temperature of A is Ta and that of B is Tb. The right
+passing through A and direction vector AB can be represented by a parametric equation
+which is very practical for doing linear interpolation.
+
 ![image](image/Interpolation.jpg)
+
+1. Give this parametric equation.
+Use this equation to calculate the temperature along the line by interpolation
+linear. The temperature -30°C is represented by blue (0, 0, 255), the temperature
++40°C is represented by red (255.0.0).
+   
+2. Write the Color structure comprising 3 components R, G and B. You can write the
+operators +, *: Color operator+(Color a, Color b);
+Color operator*(float a, Color b);
+
+3. Write a procedure displaying a line in colors as a function of its temperature.
+We will cut the line into N segments, each of these segments will have a unique color.
 
 # GrAPiC 
 
