@@ -8,6 +8,9 @@ which is very practical for doing linear interpolation.
 
 ![image](image/Interpolation.jpg)
 
+# Subject
+
+```
 1. Give this parametric equation.
 Use this equation to calculate the temperature along the line by interpolation
 linear. The temperature -30°C is represented by blue (0, 0, 255), the temperature
@@ -19,6 +22,7 @@ Color operator*(float a, Color b);
 
 3. Write a procedure displaying a line in colors as a function of its temperature.
 We will cut the line into N segments, each of these segments will have a unique color.
+```
 
 # GrAPiC 
 
